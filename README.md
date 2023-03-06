@@ -47,7 +47,7 @@ FOR READER'S
   Signal(mutex); 
 
 ```
-int readercount = 0 .
+int readercount (initially eqaul to 0).
 
 semaphore mutex .(intially eual to 1)
 
